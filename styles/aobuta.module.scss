@@ -87,8 +87,12 @@
     font-family: "Gatefold Demibold";
 }
 
-.cover {
+.cover, .link {
     line-height: 0;
     margin-left: auto;
     margin-right: auto;
+}
+
+.link {
+    display: block;
 }
